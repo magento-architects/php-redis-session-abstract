@@ -1,5 +1,5 @@
 {
-    "name":"colinmollenhour/php-redis-session-abstract",
+    "name":"magento-architects/php-redis-session-abstract",
     "type":"library",
     "license":"BSD-3-Clause",
     "homepage":"https://github.com/colinmollenhour/php-redis-session-abstract",
